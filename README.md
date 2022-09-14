@@ -1,9 +1,10 @@
+![pic](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif)
+
 
 **<h1  align="center" >Hi <img src="https://media0.giphy.com/media/LY8yDak6Tngb6FfPrt/giphy.gif?cid=790b76110c7b0ab08b3dc2786e6c55d3adfa76513d876faf&rid=giphy.gif&ct=g" height="30" width="30" background-image="red">, I'm Ahmed Jishan</h1>**
 
 
 **<h3 align="center">Love to Coding</h3>**
-<img align= "right" alt="Coding" width="30%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-jishan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-jishan" /> </p>
 
 **<h2 align="left">🙋‍♂️ About Me </h2>**
@@ -17,8 +18,8 @@
 - ⚡ Fun fact **Talking to the Moon🌙**
 
 **<h2 align="left">📊 My Github Stats </h2>**
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-jishan&theme=react&show_icons=true&hide_border=true&locale=en" alt="ahmed-jishan" width="100%"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-jishan&theme=react&show_icons=true&locale=en&layout=compact&hide_border=true" alt="ahmed-jishan" width="100%"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-jishan&theme=react&show_icons=true&hide_border=true&locale=en" alt="ahmed-jishan" width="48%"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-jishan&theme=react&show_icons=true&locale=en&layout=compact&hide_border=true" alt="ahmed-jishan" width="48%"/></p>
 
 **<h3 align="left">Connect with me:</h3>**
 <p align="left">
@@ -29,8 +30,9 @@
 </p>
 
 **<h2 align="left">🚀Languages and Tools:</h2>**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&align=left" />
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
