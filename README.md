@@ -18,8 +18,8 @@
 - ⚡ Fun fact **Talking to the Moon🌙**
 
 **<h2 align="left">📊 My Github Stats </h2>**
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-jishan&theme=react&show_icons=true&hide_border=true&locale=en" alt="ahmed-jishan" width="48%"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-jishan&theme=react&show_icons=true&locale=en&layout=compact&hide_border=true" alt="ahmed-jishan" width="48%"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmed-jishan&theme=react&show_icons=true&hide_border=true&locale=en" alt="ahmed-jishan" width="48%"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-jishan&theme=react&show_icons=true&locale=en&layout=compact&hide_border=true" alt="ahmed-jishan" width="48%"/></p>
 
 **<h3 align="left">Connect with me:</h3>**
 <p align="left">
