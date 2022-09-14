@@ -40,8 +40,8 @@
 
 **<h2 align="left">☎ Connect with me:</h2>**
 <p align="left">
-<a href="https://kaggle.com/ajishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ajishan" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed jishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed jishan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ahmed_jishan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ahmed_jishan99" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/xishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xishan" height="30" width="40" /></a>
+<a href="https://kaggle.com/ajishan" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="ajishan" /></a>
+<a href="https://fb.com/ahmed jishan" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="ahmed jishan"/></a>
+<a href="https://www.hackerrank.com/@ahmed_jishan99" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@ahmed_jishan99"/></a>
+<a href="https://codeforces.com/profile/xishan" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="xishan"/></a>
 </p>
