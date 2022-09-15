@@ -1,4 +1,4 @@
-**<h1  align="center" >Hi <img src="https://media0.giphy.com/media/LY8yDak6Tngb6FfPrt/giphy.gif?cid=790b76110c7b0ab08b3dc2786e6c55d3adfa76513d876faf&rid=giphy.gif&ct=g" height="30" width="30">, I'm Ahmed Jishan</h1>**
+**<h1  align="center" >Hi <img src="https://c.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" height="40" width="40" >, I'm Ahmed Jishan</h1>**
 
 
 **<h3 align="center">Love to Coding</h3>**
