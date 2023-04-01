@@ -13,10 +13,6 @@
 - 👨‍💻 My Portfolio 
 - ⚡ Fun fact **Talking to the Moon🌙**
 
-**<h2 align="left">📊 My Github Stats </h2>**
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmed-jishan&theme=react&show_icons=true&hide_border=true&locale=en&bg_color=0D1117" alt="ahmed-jishan" width="48%"/>
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-jishan&theme=react&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=0D1117" alt="ahmed-jishan" width="48%"/>
-
 **<h2 align="left">🚀Languages and Tools:</h2>**
  
 <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -36,7 +32,6 @@
 <img align="left" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 <img align="" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-jishan&theme=react&bg_color=0D1117&hide_border=true" alt="ahmed-jishan" width="50%"/></p>
 
 **<h2 align="left">☎ Connect with me:</h2>**
 <p align="left">
